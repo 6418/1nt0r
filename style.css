@@ -1,0 +1,26 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px; }
+
+p {
+  margin: 0; }
+
+[class^="icon-"]:before, [class*="icon-"]:before {
+  position: relative;
+  top: .2em;
+  margin-right: .2em; }
+
+.header__top {
+  background-color: black; }
+  .header__top a, .header__top p {
+    color: white; }
+  .header__top p {
+    text-align: right;
+    padding: 8px 0; }
+
+.header__numbers {
+  padding: 8px 0;
+  color: white; }
+
+.header__menu {
+  background-color: red; }
